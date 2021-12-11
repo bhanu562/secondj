@@ -1,0 +1,7 @@
+<h1>About page suresh techs<h1>
+<h2>git tutorials in master</h2>
+<<<<<<< HEAD
+<h3>changed in local |</h3>
+=======
+  <h3>changed in remote</h3>
+>>>>>>> 8b92203a3ba82ca195c5cd4ccb922aa2d86e9a19
